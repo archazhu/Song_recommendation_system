@@ -1,0 +1,32 @@
+Day 1 :
+	a. Spent time on looking for a good topic to work upon
+Day 2 :
+	a. Finalized Song Recommendation to be the topic and started looking for datasets
+Day 3 : 
+	a. Finalized a dataset containing 120k popular songs from 1921 to 2020.
+	b. Thought about the algorithms that could be of use in the project.
+Day 4 :
+	a. Did EDA on the dataset
+	b. Started learning Tkinter for GUI implementation
+Day 5 (MON):
+	a. Used KMeans as an algorithm to get clusters for recommendation based on 'classes'
+	b. Used Elbow method to find best parameters for KMeans
+	c. First prototype of gui built which accepted the data and sampled in the classes.
+Day 6 (TUE):
+	a. Researched on best and efficient algorithm to get dataset closest to a particular entry
+	b. Found KDMeans to be the useful one and added that on the project
+	c. Worked on gui to include KDMeans to give 3 recommendations from each 'class'
+Day 7 (WED: review1 day):
+	a. Worked on betterment of gui design/interface
+Day 8 (THU):
+	a. Worked on Error handling in the gui part.
+	b. More gui improvements
+	c. Researched on user age vs song likeability over Internet.
+	d. Found  an intersting article via Deezer which stated that people mostly stop listening to new music by age of 30
+	e. Added another window to get user name and age.
+	f. Gave initial choices to user in gui on the basis of the song within age as (Date of Birth + 30) to Date of Birth.
+Week last:
+        a. Added button to show User's listen history
+	b. Added Hindi language dataset (containing around 500 songs) from spotify api
+	c. Improved code to detect hindi dataset and thus, give the other labels.
+	d. Analysed and added labels for Hindi songs
