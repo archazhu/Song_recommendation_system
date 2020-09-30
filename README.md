@@ -23,11 +23,12 @@ a. Run in the corresponding directory :
 
 1. Choose 'eng_spotify_best.csv' or 'hindi_spotify_best.csv' file from the directory where you downloaded the zip file, when asked for file in the main window.
 2. Fill your details (name and age)
-3. In the song section, 
- a. choose songs via dropdown menu and press 'ADD' to add it to your collection
- b. Click on 'REFRESH' to refresh the list and bring more random entries.
- c. Click 'RECOMMEND' to move to the recommendation section
- d. Click 'MY LIST' to see your listen history
+3. In the song section,
+ 	 - choose songs via dropdown menu and press 'ADD' to add it to your collection
+ 	 - click on 'REFRESH' to refresh the list and bring more random entries.
+ 	 - click 'RECOMMEND' to move to the recommendation section
+ 	 - click 'MY LIST' to see your listen history
+	 - click 'HELP' if in trouble	
 4. Recommendation Section contains songs personalized for you.
 
 Enjoy :)
